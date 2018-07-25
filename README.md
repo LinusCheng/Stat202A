@@ -1,2 +1,2 @@
 # Stat202A
-Useful R Package
+Useful Regression Package
